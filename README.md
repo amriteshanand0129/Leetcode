@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
 |  |
 | ------- |
@@ -34,9 +36,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/3427-special-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/3427-special-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
