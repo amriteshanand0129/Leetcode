@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
 | [1972-rotating-the-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/amriteshanand0129/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3427-special-array-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/amriteshanand0129/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/amriteshanand0129/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
