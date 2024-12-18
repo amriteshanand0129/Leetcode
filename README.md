@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amriteshanand0129/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1972-rotating-the-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/amriteshanand0129/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/amriteshanand0129/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amriteshanand0129/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amriteshanand0129/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
