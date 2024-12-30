@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
+| [2562-count-ways-to-build-good-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
 | ------- |
