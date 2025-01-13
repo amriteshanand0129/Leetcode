@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amriteshanand0129/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/amriteshanand0129/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/amriteshanand0129/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amriteshanand0129/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/amriteshanand0129/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amriteshanand0129/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
