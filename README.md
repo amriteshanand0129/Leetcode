@@ -141,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amriteshanand0129/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amriteshanand0129/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amriteshanand0129/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/amriteshanand0129/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amriteshanand0129/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
