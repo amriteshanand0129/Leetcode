@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amriteshanand0129/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0854-making-a-large-island](https://github.com/amriteshanand0129/Leetcode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/amriteshanand0129/Leetcode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amriteshanand0129/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/amriteshanand0129/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/amriteshanand0129/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1972-rotating-the-box) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amriteshanand0129/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/amriteshanand0129/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amriteshanand0129/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/amriteshanand0129/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amriteshanand0129/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/amriteshanand0129/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/amriteshanand0129/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/amriteshanand0129/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/amriteshanand0129/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/amriteshanand0129/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
