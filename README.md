@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amriteshanand0129/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/amriteshanand0129/Leetcode/tree/master/0854-making-a-large-island) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amriteshanand0129/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amriteshanand0129/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/amriteshanand0129/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amriteshanand0129/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0952-word-subsets](https://github.com/amriteshanand0129/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -171,15 +174,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
 | [2562-count-ways-to-build-good-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -224,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/amriteshanand0129/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
