@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/amriteshanand0129/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/amriteshanand0129/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/amriteshanand0129/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/amriteshanand0129/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/amriteshanand0129/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1876-map-of-highest-peak](https://github.com/amriteshanand0129/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amriteshanand0129/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/amriteshanand0129/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/amriteshanand0129/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amriteshanand0129/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/3427-special-array-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amriteshanand0129/Leetcode/tree/master/0231-power-of-two) |
+| [1477-product-of-the-last-k-numbers](https://github.com/amriteshanand0129/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/amriteshanand0129/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -266,9 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/amriteshanand0129/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/amriteshanand0129/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/amriteshanand0129/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/amriteshanand0129/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
