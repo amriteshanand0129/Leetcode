@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1972-rotating-the-box) |
+| [2107-find-unique-binary-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/amriteshanand0129/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/amriteshanand0129/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/amriteshanand0129/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/amriteshanand0129/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amriteshanand0129/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/amriteshanand0129/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/amriteshanand0129/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/amriteshanand0129/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/amriteshanand0129/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/amriteshanand0129/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/amriteshanand0129/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/amriteshanand0129/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/amriteshanand0129/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Trie
 |  |
 | ------- |
