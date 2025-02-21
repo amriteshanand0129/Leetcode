@@ -16,7 +16,10 @@
 class FindElements {
 
     TreeNode root;
+    HashSet<Integer> set;
     public void recover(TreeNode node) {
+
+        set.add(node.val);
 
         if(node.left != null) {
             node.left.val = node.val * 2 + 1;
@@ -30,22 +33,16 @@ class FindElements {
     }
 
     public FindElements(TreeNode root) {
+
         this.root = root;
+        this.set = new HashSet<>();
+
         this.root.val = 0;
         recover(this.root);
     }
-
-    public boolean search(TreeNode node, int target) {
-        
-        if(node == null) return false;
-
-        if(node.val == target) return true;
-
-        return search(node.left, target) || search(node.right, target);
-    }
     
     public boolean find(int target) {
-        return search(this.root, target);
+        return set.contains(target);
     }
 }
 
