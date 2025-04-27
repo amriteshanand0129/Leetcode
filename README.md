@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/amriteshanand0129/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amriteshanand0129/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amriteshanand0129/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
