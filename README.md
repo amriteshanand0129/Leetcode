@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/amriteshanand0129/Leetcode/tree/master/0075-sort-colors) |
 | [0140-word-break-ii](https://github.com/amriteshanand0129/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/amriteshanand0129/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amriteshanand0129/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amriteshanand0129/Leetcode/tree/master/0075-sort-colors) |
 | [1972-rotating-the-box](https://github.com/amriteshanand0129/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/amriteshanand0129/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Matrix
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amriteshanand0129/Leetcode/tree/master/0075-sort-colors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/amriteshanand0129/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/amriteshanand0129/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
